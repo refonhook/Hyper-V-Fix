@@ -3,7 +3,7 @@
 2. Disable your antivirus, Tamper Protection, and Cloud-delivered protection.
 3. Run as Administrator.
 4. Restart your PC.
-5. Done.## How to install:
+5. Done.
   ## Disclaimer:
 I take no responsibility for how the Hypervisor gets disabled on your machine. 
 This tool is **extremely aggressive** in its settings.
