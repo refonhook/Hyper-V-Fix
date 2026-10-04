@@ -2,6 +2,6 @@
 hypervisor disabler program
 
 How to use:
-Install Hyper-V-fix.exe
-Run as administrator
-Reboot your PC
+1. Install Hyper-V-fix.exe
+2. Run as administrator
+3. Reboot your PC
